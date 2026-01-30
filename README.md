@@ -8,5 +8,5 @@ Activity:
 
 1. Data Cleaning using Python
 2. Table creation in MySQL
-3. Loading clean data into SQL table.
-4. Dashboard
+3. Loading cleaned data into SQL tables
+4. Dashboard for Insights
