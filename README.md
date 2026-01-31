@@ -1,7 +1,6 @@
 # End-to-End-Data-Analysis-Project
 
-Dashboard link: https://public.tableau.com/app/profile/vivek.kumar.singh4994/viz/Dashboard_new_17693063629990/Homepage?publish=yes
-
+Dashboard link: https://public.tableau.com/app/profile/vivek.kumar.singh4994/viz/CustomerPerformance_17698263841320/Homepage#1
 Customer Performance Analysis. 
 
 Activity:
